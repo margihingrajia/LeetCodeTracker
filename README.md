@@ -1,3 +1,3 @@
 # LeetCodeTracker
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rLcrdXO8K4?theme=unicorn&font=Nanum%20Gothic%20Coding&ext=activity)
