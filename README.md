@@ -29,6 +29,7 @@ Each solution file is named using the problem's title in kebab-case and includes
 | Topic              | Easy | Medium | Hard |
 |--------------------|------|--------|------|
 | Arrays             | ✅ xx |... | ... |
+| Database           | ✅ xx |... | ... |
 | ...                | ...  | ... | ... |
 
 > *Progress is updated as new problems are solved.*
