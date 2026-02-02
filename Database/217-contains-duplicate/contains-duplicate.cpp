@@ -14,7 +14,8 @@ for(int i=0;i<nums.size(); i++)
     }
 }
 return false;
-}};
+}
+};
 
 
     // unordered_set<int> j;
